@@ -1,0 +1,33 @@
+.formulaire{
+    padding: 15% 10% 0 10%;
+    
+}
+
+
+
+.ButtonSubmit{
+    color: #fff;
+}
+
+.ZoneForm{
+    box-shadow: 0 0 0 0 !important;
+    background: #26394d !important;
+    border:none !important;
+}
+
+.ContainerText{
+    padding: 10% 12% 0 12%;
+}
+
+.ContainerText p{
+    font-family: 'Work Sans', sans-serif;
+}
+
+@media screen and (max-width: 768px){
+    .formulaire{
+        padding: 0px 0px 0px 0px;
+    }
+    .ContainerText{
+        padding: 0px 0px 0px 0px;
+    }
+}

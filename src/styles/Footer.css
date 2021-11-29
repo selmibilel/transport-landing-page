@@ -1,0 +1,27 @@
+.footer{
+    /* background-color: #D1C4E9; */
+    /* background-color: #e0e1dd; */
+    height: 50vh;
+    background: #000d1a;
+    color: #fff;
+    margin:0px auto;
+    padding: 60px 0px 20px 0px;
+    font-family: Source Sans Pro,Arial,sans-serif;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 70% 100%, 68% 91%, 66% 100%, 0 100%);
+
+}
+
+
+.ContactCol h4{
+    margin-bottom: 25px;
+    margin-left: 32px;
+}
+
+.ContactCol ul{
+    list-style-type: none;
+}
+
+.ContactCol ul li{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
